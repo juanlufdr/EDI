@@ -1,0 +1,4 @@
+@jarico#Juan A.#Rico#Profesor de EDI#jarico@unex.es
+@mariscal#M. Angeles#Mariscal#Profesora de EDI#mariscal@unex.es
+@chema_cm#Jose M.#Conejero#Profesor de EDI#chemacm@unex.es
+@esosa#Encarna#Sosa#Profesora de EDI#esosa@unex.es
